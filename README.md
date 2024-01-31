@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Elastic认证专家；Elastic中国官方合作培训讲师；阿里云MVP；Elastic中文社区2023年、2018年杰出贡献者；CSDN2013年、2016年博客征文特等奖得主；博客全网累计阅读1000万+；已带领国内外150人+通过Elastic认证专家考试。
+- 🔭 Elastic认证专家；Elastic中国官方合作培训讲师；阿里云MVP；Elastic中文社区2023年、2018年杰出贡献者；CSDN2013年、2016年博客征文特等奖得主；博客全网累计阅读1000万+；已带领国内外近200人+通过Elastic认证专家考试。
 - 🌱 ElasticStack（Elasticsearch、kibana、Logstash、Beats等）基础、进阶、实战、向量数据库等优质内容，持续输出ing ...
 - 👯 博客：[elastic.blog.csdn.net](https://elastic.blog.csdn.net/)
 - 🤔 公众号: [铭毅天下Elasticsearch](https://github.com/mingyitianxia/mingyitianxia/blob/main/mytx_gzh.png)
